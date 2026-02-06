@@ -5,14 +5,14 @@
   Predict Survival, Empower Decisions Instantly
   <br />
   <br />
-  <a href="https://github.com/USERNAME/REPO_NAME"><strong>Explore the Repository »</strong></a>
+  <a href="https://github.com/Gandharv3352/Titanic_Survival_Prediction_Model"><strong>Explore the Repository »</strong></a>
   <br />
   <br />
   <a href="#downloads">Download Files</a>
   ·
   <a href="#getting-started">Run Locally</a>
   ·
-  <a href="https://github.com/USERNAME/REPO_NAME/issues">Report Bug</a>
+  <a href="https://github.com/Gandharv3352/Titanic_Survival_Prediction_Model/issues">Report Bug</a>
 </p>
 </div>
 
