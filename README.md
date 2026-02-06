@@ -126,7 +126,7 @@ Titanic_Survival_Prediction_Model/
 ## Downloads
 
 - 📓 **Jupyter Notebook (EDA + Model Training)**  
-  👉 [Download Titanic_Model.ipynb]()
+  👉 [Download Titanic_Model.ipynb](https://github.com/Gandharv3352/Titanic_Survival_Prediction_Model/blob/main/titanic.ipynb)
 
 - 🧠 **Trained Model Pipeline (`.pkl`)**  
   👉 [Download titanic_pipeline.pkl](https://github.com/Gandharv3352/Titanic_Survival_Prediction_Model/blob/main/titanic_pipeline.pkl)
