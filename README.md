@@ -1,16 +1,4 @@
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-[![Python][python-shield]][python-url]
-[![scikit-learn][sklearn-shield]][sklearn-url]
-[![FastAPI][fastapi-shield]][fastapi-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-<!-- PROJECT LOGO / TITLE -->
-<br />
 <div align="center">
-
 <h1 align="center">🚢 Titanic Survival Prediction Model</h1>
 
 <p align="center">
@@ -87,21 +75,21 @@ The **Titanic Survival Prediction Model** simplifies deploying ML models with an
 
 ---
 
-## Built With
+### 🧠 Built With
 
-**Machine Learning & Data**
-- 🧠 scikit-learn
-- 📊 pandas, numpy
+This project was built using the following major libraries and tools:
 
-**Backend & Deployment**
-- ⚡ FastAPI
-- 🚀 Uvicorn
-
-**Model Management**
-- 📦 pickle
-- 🔗 sklearn Pipelines & ColumnTransformer
+* [![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+* [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-17A2B8?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+* [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+* [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4E73DF?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+* [![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-DD0031?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+* [![Pickle](https://img.shields.io/badge/Pickle-Serialization-6C757D?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/pickle.html)
+* [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ---
 
@@ -118,19 +106,19 @@ The **Titanic Survival Prediction Model** simplifies deploying ML models with an
 
 ## Project Structure
 
+```plaintext
 Titanic_Survival_Prediction_Model/
 │
-├── app.py # FastAPI backend
-├── titanic_pipeline.pkl # Trained ML pipeline
-├── requirements.txt # Dependency versions
-├── Titanic_Model.ipynb # EDA + Training notebook
+├── app.py                   # FastAPI backend
+├── titanic_pipeline.pkl      # Trained ML pipeline
+├── requirements.txt         # Python dependencies
+├── Titanic_Model.ipynb      # EDA & model training notebook
 │
 ├── templates/
-│ └── index.html # Web UI
+│   └── index.html           # Web UI template
 │
-└── README.md
-
-
+└── README.md                # Project documentation
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
