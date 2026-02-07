@@ -18,7 +18,7 @@
 
 ---
 
-[Visit the Titanic Survival Prediction App](https://titanic-survival-prediction-model-lo6r.onrender.com)
+[Visit the Titanic Survival Prediction Application](https://titanic-survival-prediction-model-lo6r.onrender.com)
 
 <!-- TABLE OF CONTENTS -->
 <details>
